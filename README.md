@@ -1,6 +1,6 @@
 💻 **Lab Data Public Repository**
 
-Welcome to the Lab Data Public Repository, a collection of code examples and practice projects across various technology stacks. This repository serves as a sandbox for learning, experimentation, and showcasing different tools and platforms.
+Welcome Daniel's public repo. This repo is a collection of code examples and practice projects across various technology stacks and it serves serves as a sandbox for learning, experimentation, and showcasing different tools and platforms.
 
 📁 **Repository Structure**
 
